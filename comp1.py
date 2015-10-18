@@ -23,3 +23,6 @@ def d(c,k):
 		output += alphabet[charnum]
 		kletter = (kletter + 1) % len(k)
 	return output
+
+
+#message for wint: '2vy9xq7vg0g6upfgtamtw2ilhgwwtau0s9uptvfvu0tcegtazg3 tmog8hflgptgnmrvvm3xhr.jxehtav wp3rehmbpfsds2pn0w6dcaguw103 s9gq7gg03  .fq7ifs2v dbkaa1gu  wp3ryvmbpetfzrdl0uslc.28ayduu riq.a2m6vsq.qrflb3ue9uwruonepir.28a6ncpsm.78wfv95t9gq7ffnc  uiiaap0aribag7q10byar.78wfrctk9b2revc35g9cmvc2ryptfb2.ahm86ygoo'
